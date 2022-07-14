@@ -1,0 +1,14 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+div#container{
+    box-shadow: black 2px 4px 5px 0px;
+    background-color: darkgrey;
+    border-radius: 30px;
+    text-align: center;
+    width: 50%;
+    height: 80%;
+}
