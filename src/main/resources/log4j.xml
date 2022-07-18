@@ -11,7 +11,7 @@
     </appender>
 
     <!-- Application Loggers -->
-    <logger name="org.pskim.spring">
+    <logger name="org.benebean.spring">
         <level value="info" />
     </logger>
 

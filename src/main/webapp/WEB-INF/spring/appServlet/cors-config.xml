@@ -8,7 +8,7 @@
 
     <!-- CORS Setting Namespace -->
     <mvc:cors>
-        <mvc:mapping path="/**" allowed-origins="http://localhost" />
+        <mvc:mapping path="/**" allowed-origins="http://localhost https://benebean-lightbulb.com" />
     </mvc:cors>
 
 </beans:beans>

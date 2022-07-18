@@ -15,7 +15,7 @@
     <!-- Dispatcher Servlet : defines this servlet's request-processing infrastructure -->
 
     <!-- Enables the Spring MVC @Controller programming model -->
-     <mvc:annotation-driven />
+     <annotation-driven />
 
     <!-- CORS Setting -->
      <beans:import resource="cors-config.xml"/>
