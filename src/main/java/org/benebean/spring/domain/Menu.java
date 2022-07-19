@@ -19,6 +19,6 @@ public class Menu {
     @Column(name = "name", nullable = false)
     private String name;
 
-    @Column(name = "content", nullable = false)
-    private String content;
+    @Column(name = "url", nullable = false)
+    private String url;
 }
